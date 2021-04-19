@@ -9,8 +9,6 @@ namespace Grupo01
             Console.WriteLine("Hello World!");
             Console.Write("hola");
 
-
-            Console.Write("Rotacion de las piezas");
         }
     }
 }
